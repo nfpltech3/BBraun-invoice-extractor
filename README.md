@@ -61,10 +61,5 @@ Ensure you have Python installed. The project relies on the following libraries:
     *   Review the **Data Preview** table.
     *   The tool will automatically save a timestamped Excel file (e.g., `Combined_Germany_Spain_5files_20231025.xlsx`) in the same folder as your source PDFs.
 
-## 🔮 Future Scope
-*   **Auto-Detection:** Implementation of logic to automatically detect the region based on PDF keywords.
-*   **Enhanced Reporting:** Dashboard visualization of total invoice values processed.
-*   **Additional Formats:** Support for US and UK invoice layouts.
-
 ---
 © Nagarkot Forwarders Pvt Ltd
