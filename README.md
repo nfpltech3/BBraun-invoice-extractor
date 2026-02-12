@@ -29,8 +29,8 @@ Ensure you have Python installed. The project relies on the following libraries:
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/yourusername/multi-region-invoice-extractor.git](https://github.com/yourusername/multi-region-invoice-extractor.git)
-    cd multi-region-invoice-extractor
+    git clone https://github.com/nfpltech3/BBraun-invoice-extractor
+    cd BBraun-invoice-extractor
     ```
 
 2.  Install the required dependencies:
