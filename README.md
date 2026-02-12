@@ -1,4 +1,4 @@
-# Global Invoice Automation Suite
+# BBraun invoice extractor
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
