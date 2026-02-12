@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## 📖 Introduction
-**Global Invoice Automation Suite** is a desktop GUI tool designed to eliminate manual data entry for international logistics and supply chain invoices. 
+**BBraun invoice extractor** is a desktop GUI tool designed to eliminate manual data entry for international logistics and supply chain invoices. 
 
 Processing complex PDF invoices with varying layouts can be error-prone and time-consuming. This tool automates the extraction of critical data points—such as Invoice Numbers, Dates, Item Codes, Quantities, and Prices—and consolidates them into a clean, structured Excel spreadsheet for immediate analysis or ERP upload.
 
